@@ -5,7 +5,7 @@ L.tileLayer(OpenStreetMap_BlackAndWhite, {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap)
 
-let farmData = 'https://github.com/felippehsk/felippehsk.github.io/tree/master/map3/Data/Data_3.geojson'
+let farmData = 'https://github.com/felippehsk/felippehsk.github.io/tree/master/map3/Data_3.geojson'
 jQuery.getJSON(farmData, function(data){
 	L.geoJSON(data).addTo(myMap)
 })
