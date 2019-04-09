@@ -15,7 +15,8 @@ jQuery.getJSON (stateDemographicsUrl, function (data) {
 	  return {
 	    color: stateColor, //use the color variable above for the value
 	    weight: 1,
-	    fillOpacity: 0.5
+	    fillOpacity: 0.5,
+			lineJoin: "bevel"
 	  }
 	}
 	let onEachFeature = function (feature, layer) {
