@@ -1,4 +1,4 @@
-let  myMap = L.map('genderPop').setView([36, -99.14], 3.47)
+let  myMap = L.map('genderPop').setView([38, -99.14], 3.47)
 let Esri_WorldImagery = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
 L.tileLayer(Esri_WorldImagery, {
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
