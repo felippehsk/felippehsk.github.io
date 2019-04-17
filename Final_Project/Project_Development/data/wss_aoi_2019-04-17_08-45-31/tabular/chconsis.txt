@@ -1,0 +1,6 @@
+"Firm"||||"Deformable"|"Very sticky"|"Very plastic"|Yes|"47852388"|"4449006"
+"Firm"||||"Deformable"|"Very sticky"|"Very plastic"|Yes|"47852387"|"4449005"
+"Firm"||||"Deformable"|"Very sticky"|"Very plastic"|Yes|"47852386"|"4449004"
+"Firm"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"47852381"|"4449003"
+"Firm"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"47852380"|"4449002"
+"Friable"||||"Semideformable"|"Nonsticky"|"Nonplastic"|Yes|"47852379"|"4449001"

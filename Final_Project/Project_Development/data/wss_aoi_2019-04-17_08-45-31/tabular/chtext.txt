@@ -1,0 +1,7 @@
+01/09/2013 00:00:00|"Miscellaneous notes"|"Horizon Designation"||"This horizon designation includes: Ap1, Ap2, Ap3, and Ap4 horizons."|"47852379"|"1838656"
+05/03/2007 00:00:00|"Edit notes"|"CaCo3"||"Posted CaCo3 value of 2 from S02LA-095-001 Cancienne lab data."|"47852380"|"1838657"
+01/09/2013 00:00:00|"Miscellaneous notes"|"Horizon Designation"||"This horizon designation includes: Bg1, Bg2, Bg3, and BCg1 horizons."|"47852380"|"1838658"
+05/03/2007 00:00:00|"Edit notes"|"CaCo3"||"Posted CaCo3 value of 4 from S02LA-095-001 Cancienne lab data."|"47852381"|"1838659"
+01/09/2013 00:00:00|"Miscellaneous notes"|"Horizon Designation"||"This horizon designation includes:BCg1, BCg2, and BCg3 horizons."|"47852381"|"1838660"
+01/16/2013 00:00:00|"Edit notes"|"Horizon Designation"||"This DMU horizon is a combination of Bssg1, Bssg2, and Bssg3 horizons found in the component pedon and associated lab data. Designation for DMU is ""Bssg1""."|"47852387"|"1838662"
+01/16/2013 00:00:00|"Edit notes"|"Horizon Designation"||"This DMU horizon is a combination of Bssg4, Bssg5, Bssg6, Bssg6, and Bssg7 horizons found in the component pedon and associated lab data. Designation for DMU is ""Bssg4""."|"47852388"|"1838663"

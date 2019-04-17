@@ -1,0 +1,260 @@
+01/27/2006 00:00:00|"Correlation notes"|||"Changed for provisional to approved.   Water bodies consisting of the Mississippi, Comite and Amite Rivers tributaries, bayou's and lakes."|"577015"|"1586697"
+08/11/1994 00:00:00|"Correlation notes"|||"Sharkey-Tunica clays, gently undulating, 0 to 3 percent slopes.  The Sharkey part is a Vertic Haplaquepts, very-fine, montmorillonitic, nonacid, thermic.  This site was in pasture.  This profile had good clayey material to 70 inches.  It fits the Sharkey concept better than site 5.  This is the typifying pedon for the Sharkey series which is part of the SnB map unit.  This map unit was added this review.
+
+This stop was in the same field as stop above.  It was on a slightly higher ridge.  This site is the typifying pedon for the Tunica series, Vertic Haplaquepts, clayey over loamy, montmorillonitic, nonacid, thermic, which is part of the SnB map unit."|"577044"|"1586773"
+04/10/2003 00:00:00|"Map unit description"|"USE"||"Most areas of these soils are used for pature, cropland, and homesites.  Some areas are in woodland."|"577044"|"1586774"
+07/19/2007 00:00:00|"Correlation notes"|||"This map unit complex was changed to the hyperthermic counter part of the Sharkey and Tunica soils mapped south of I-10 on the Mississppi River.  SnB was correlated to Schriever and Thibaut clays, gently undulating."|"577044"|"1586775"
+|"Nontechnical description"|"AGR"|"047"|"The potential for cropland and pastureland is excellent. Suitable crops are cotton, soybeans, corn, and grain sorghum. Pasture plants are bermudagrasses, bahiagrass, ryegrass tall fescue, and white clover. Traffic pans develop easily, but can be broken by chiseling or deep plowing. A drainage system is generally needed to remove excess surface water. Crop residue management will reduce erosion. Most crops respond well to nitrogen fertilizers. Lime and other fertilizers generally are not needed."|"609759"|"1586816"
+|"Nontechnical description"|"AGR"|"048"|"The potential for cropland and pastureland is excellent. Suitable crops are cotton, soybeans, corn, grain sorghum, and truck crops. Pasture plants are bermudagrasses, bahiagrass and ryegrass. The clay content in the surface layer restricts the use of farm equipment during wet periods. A drainage system is needed to remove excess surface water. Crop residue management will help reduce erosion. Most crops, respond well to nitrogen fertilizers. Lime and other fertilizers generally are not needed."|"609759"|"1586817"
+|"Nontechnical description"|"SOI"|"056"|"This nearly level, somewhat poorly drained soil is on alluvial plains. It is loamy throughout and has high fertility. Runoff is slow, and water and air move moderately slowly through the soil. A seasonal high water table is about 1.5 to 4 feet below the surface during December through April. The shrink-swell potential is moderate. Slopes range from 0 to 2 percent."|"609759"|"1586818"
+|"Nontechnical description"|"WDS"|"003"|"These are moderately wet, loamy soils with a very high potential for productivity. Equipment limitations are moderate due primarily to excess water. These soils are best suited for southern hardwoods. Site index for green ash is 80-100, cottonwood 100-120, oaks 90-110, and sweetgum 110."|"609759"|"1586819"
+11/09/2001 00:00:00|"Map unit description"|"WSG"||"Most areas of this soil have been cleared and are used for cropland.  However, these loamy soils have no serious management problems and have a high potential for woodland productivity. These soils would be best suited for southern hardwoods. Site index for cottonwood and sweetgum is 105, green ash 98."|"609759"|"1586820"
+12/08/2001 00:00:00|"Map unit description"|"USE"||"Cropland, residential and industrial uses."|"609759"|"1586821"
+02/29/2000 00:00:00|"Correlation notes"|||"90O36'27.53''	30O03'36.4''
+	Cancienne proposed survey area TP site in the Cm map unit.  The site is a broad convex ridge, and the pedon looked at has a dominant 10YR 4/2 matrix throughout the upper 20 inches.  The Bw horizon is silt loam in the upper part, silty clay loam in the middle part, and silt loam again in the lower part.  There is good structure throughout the Bw horizon to a depth of about 4 feet.  The upper part of the C horizon is silt loam and a discontinuity that is heavy silty clay loam is at about 70 inches deep.  This pedon may have enough development that it may not make the Fluvaquenic subgroup criteria anymore, but this attribute is known to be highly variable in this series.  Otherwise this pedon fits the concept of the Cancienne series well.  The pedon should be compared with transect data as more is collected to determine whether it is central to the range that is mapped."|"609759"|"1586822"
+01/16/2013 00:00:00|"Map unit description"|"map unit concept"||"MLRA 131A-Cancienne silt loam 0 to 1% slopes, National MU Symbol 2s8sq
+ 
+Soils in this MLRA map unit formed in fine-silty sediments on delta plains on natural levee positions in the lower Mississippi River Alluvial Plain, known as MLRA 131A. Slopes are generally around 0.5 percent, but range from 0 to 1 percent. The soils in this unit do not flood or pond. A typical profile of Cancienne silt loam is as follows:
+
+Ap: 0 to 58 centimeters  silt loam
+Bg: 58 to 170 centimeters  silty clay loam, silt loam, loam
+BCg: 170 to 203 centimeters  silty clay loam, silt loam, loam
+
+This entire map unit is within the southern part of Louisiana and south of the hyperthermic line in Assumption, East Baton Rouge, Iberville, Jefferson, Lafourche, Orleans, Plaquemines, St. Bernard, St. Charles, St. James, St. John the Baptist and Terrebonne Parishes. Included with this mapping unit are areas of Carville, Thibaut, Schriever, and Gramercy soils. Carville soils are on similar positions or on younger natural levees and are coarse-silty. Thibaut soils are on the intermediate part of the natural levee and are clayey over loamy, with the depth to the fine-silty material ranging from 51 to 102 centimeters (20 to 40 inches).  Gramercy soils (fine control section) are on lower  positions of the natural levee and are clayey to a depth ranging from 102 to 152 centimeters (40 to 60 inches). Schriever soils (very fine control section) are on lower positions of the natural levee and are clayey to depths of more than 152 centimeters (60 inches). This MLRA map unit is entirely within the 7-DEN MLRA 131A soils area. Most areas of this map unit are cultivated and have been precision land leveled.
+
+Supporting documentation for QC includes the following:
+
+Project Name: SDJR - MLRA 131A  Cancienne silt loam and Cancienne silt loam, 0 to 1 percent slopes
+
+National MU symbol and name  2s8sq; MLRA 131A Cancienne silt loam, 0 to 1 percent slopes
+
+MLRA DMU record ID and name  660823; MLRA 131A Cancienne silt loam, 0 to 1 percent slopes
+
+Representative Pedon for this MU/DMU:
+	User Site ID: LA095-Cancienne Sample Site
+	User Pedon ID: S2002-LA095-001
+	Record ID: 117401
+
+Supporting non representative pedons include the following:
+User Pedon ID		User Pedon ID		Pedon Record ID	Parish
+1972LA005004		1972LA005004		805616			Ascension
+1984LA087004		1984LA087004		777601			St. Bernard
+1988LA075006		1988LA075006		777583			Plaquemines
+
+*These supporting pedons were the TUDs entered into NASIS*
+
+Lab Data: NSSL Characterization data  S02LA-095-001
+
+Spatial maps created for this project includes: Geographic Extent Map of the Cancienne Soil Series and multiple Cancienne silt loam and Cancienne silt loam, 0 to 1 percent slopes spatial distribution maps displaying map unit extents by MLRA/parish, mean annual air temperature, mean annual precipitation, and the thermic-hyperthermic line. 
+
+NASIS Reports:
+1.	UTIL  Comparison of Bulk Densities, stored vs. calc  DMU
+2.	UTIL  Comparison of CEC and ECEC, stored vs. calc  EX
+3.	UTIL  Comparison of Concrete Corrosion, sto vs. cal  EX
+4.	UTIL  Comparison of Frags & Sieves, sto vs. calc  EX
+5.	UTIL  Comparison of Frost Action, sto vs. calc  EXPORT
+6.	UTIL  Comparison of HSG, stored vs. calculated  EXPORT
+7.	UTIL  Comparison of K factor, stored vs. cal  DMU  EXPORT
+8.	UTIL  Comparison of LL and PI, stored vs. calc  EXPORT
+9.	UTIL  Comparison of T Factor, stored vs. calculated  EXPORT
+10.	UTIL  Comparison of UNIFIED & AASHTO, stor vs. calc  EXPORT
+11.	UTIL  Comparison of Water Contents, stored vs. calc  EXPORT
+12.	UTIL  Comparison of WEGWEI, stored vs. calculated  EXPORT
+13.	SDJR  DMU Quality Check
+
+Note: the calculated K factor for the surface layer of this MLRA MU is .37. The previous K factor for Cancienne was .43. The change is due to updated lab data. The change in K factor was discussed with the Louisiana Tech Team and it will not affect/change any program decisions. 
+"|"609759"|"1586823"
+11/15/2013 00:00:00|"Correlation notes"|"status-added"||"This mapunit was added to the legend with a correlated status as a result of the ""SDJR - MLRA 131A - Cancienne silt loam and Cancienne silt loam 0 to 1 percent slopes"" project 
+
+
+"|"609759"|"1586824"
+10/30/2013 00:00:00|"Correlation notes"|"status-added"||"This mapunit was added to the legend with a correlated status as a result of the ""SDJR - MLRA 131A - Schriever clay 0 to 1 percent slopes"" project 
+
+
+"|"610859"|"1586829"
+|"Nontechnical description"|"AGR"|"061"|"The potential for cropland and pastureland is high. Suitable crops are soybeans, sugarcane, grain sorghum, ryegrass, and rice. Suitable pasture plants are common bermudagrass, bahiagrass, dallisgrass, tall fescue, and white clover. A drainage system is needed. Crop residue on the surface will reduce soil erosion. Most crops respond well to complete fertilizers. Lime may be needed."|"610859"|"1586830"
+|"Nontechnical description"|"SOI"|"067"|"This nearly level, poorly drained, soil is on broad flats on the alluvial plain. It is clayey throughout. Natural fertility is medium or high. Runoff is slow or very slow. Water and air move very slowly through the soil. The shrink-swell potential is high or very high. A seasonal high water table is within 2 feet of the soil surface during December through April. Flooding is rare, but it can occur during unusually wet periods. Slopes are less than 1 percent."|"610859"|"1586831"
+|"Nontechnical description"|"WDS"|"019"|"These are wet, clayey soils with a high potential for productivity. Equipment limitations and seedling mortality are severe. This is due primarily to excess water. Silvicultural operations should be restricted to dry weather periods. Only tree species adapted to wet clay soils should be planted. Plant more seedlings than the recommended rate on these soils to ensure a stand. Site index for green ash is 80, cottonwood 100, oaks and sweetgum 90."|"610859"|"1586832"
+12/08/2001 00:00:00|"Map unit description"|"USE"||"Cropland and residential uses."|"610859"|"1586833"
+02/29/2000 00:00:00|"Correlation notes"|||"90O36'57.21''	30O00'24.73''
+	Fine textured Schriever like soil -  This site is in a turtle backed pasture and is mapped Sharkey clay (Sk) in the out of date survey.  The pedon looked at has a 10YR 3/2 silty clay or clay surface, then a Bssg horizon that is 4/1 and 5/1 silty clay with good slickensides to about 58 inches deep.  The C horizon below that is deformable but not fluid to beyond 80 inches.  Across the road from this site is an area of essentially the same soil that has not been crowned and is slightly wetter.  The discussion here was whether these two areas should be mapped as the same map unit, and it was decided that they should be to avoid having squared off units that would be highly subject to change.  It was decided that surface texture and flood class should be the main criteria for separating map units of this proposed new series.
+
+	Fine textured Schriever like soil -  This site is in a smoothed pasture and is mapped Sharkey clay (Sk) in the out of date survey.  The pedon looked at has a 10YR 3/2 silty clay surface, then a Bssg horizon that is 4/1 and 5/1 clay or silty clay with slickensides to about 50 inches deep.  The C horizon below that is deformable but not fluid to beyond 80 inches.  This looks very similar to the profile looked at in the turtle backed area but it is slightly wetter.  It was suggested that some surface and control section samples should be collected from this site and the turtle backed site to verify that it is going to be in a fine family.  If so, the proposed new Gramercy series will need at least two map units - one with a silty clay loam top and one with a silty clay top.  If a silty clay surface phase is mapped, care must be taken to make sure there is a clean landform break between this soil, and real Scrhiever soils with a clay surface, as they may be hard to tell apart in the field.  Delineations of each should not be intermingled next to one another with no visible landscape differentia."|"610859"|"1586834"
+12/18/2001 00:00:00|"Correlation notes"|||"Schriever proposed map unit representative pedon in an area of Schriever clay, 0 to 1 percent slopes (Sk).  Longitude 90O36'24.98''; Latitude 30O00'25.78''. The site on a backswamp position in pasture about 1.1 miles south of the Gramercy sample site.  It has a 5 inch thick surface layer that is described as a silty clay, but it feels more like a clay.  The subsoil and substrata layers to beyond 80 inches are chroma 1 clay. Some 5YR masses of oxidized iron are in the lower part of the solum and were added to the profile description.  No lab data are available on this pedon but it appears that it would probably have a very-fine control section and a clay surface.  The site presently is in a Sh (Gramercy) delineation on the base map and lines still have not been placed on the map to delineate this area from the Gramercy soils upslope.  It was suggested that surface texture should be relied upon heavily to separate these Schriever map units from the Gramercy map units.  Pedon is approved as the map unit representative pedon pending completion of the mapping in this area."|"610859"|"1586835"
+02/06/2013 00:00:00|"Map unit description"|"map unit concept"||"SDJR MLRA MU: MLRA 131A Schriever clay, 0 to 1 percent slopes
+
+Map Unit Composition
+
+Major Components
+
+Schriever and similar soils: 92 to 100 percent
+
+Contrasting Inclusions
+
+Gramercy: 0 to 8 percent  these soils are on slightly higher positions on the natural levee and average less than 60 percent clay in the 25 to 101 cm (10 to 40 in) control section
+
+Thibaut: 1 to 5 percent  these soils are on intermediate positions of the natural levee and are clayey over loamy, with the depth to fine-silty material ranging from 51 to 102 cm (20-40 in)
+
+Characteristics of the Sharkey Soil
+
+Soil Properties and Qualities
+
+Major Land Resource Area: 131A  Southern Mississippi River Alluvium
+
+Landform: Backswamps on delta plains
+
+Parent Material: Clayey alluvium
+
+Slope: 0 to 1 percent
+
+Surface Fragments: None
+
+Drainage Class: Poorly drained
+
+Slowest permeability: Impermeable (about 0.00 in/hr)
+
+Available Water Capacity: Moderate (about 7.1 in)
+
+Shrink-swell potential: Very high (about 17.9 percent linear extensibility)
+
+Frequency of Flooding: Rare
+
+Frequency of Ponding: None
+
+Depth to Seasonal Water Saturation: About 0 to 61 cm (0-24 in)
+Runoff class: High
+
+Nonirrigated Land Capability Class: 3w
+
+Typical Profile
+
+Surface Layer:
+
+Ap: 0 to 20 centimeters  dark grayish brown clay; neutral
+
+Subsoil:
+
+Bssg1: 20 to 100 centimeters  gray clay; slightly alkaline
+
+Bssg4: 100 to 203 centimeters  gray clay; neutral
+
+Use and Management
+
+Major Land Uses: Cropland and residential
+
+Cropland
+
+All areas of this soil are prime farmland.
+
+Careful selection and application of chemicals and fertilizers can minimize contamination of ground water.
+
+Clods can form if the soil is tilled when wet.
+
+Compaction can be minimized by controlling traffic.
+
+The rooting depth is restricted by the very high content of clay.
+
+Maintaining or increasing the content of organic matter in the soil helps to prevent crusting, improves tilth, and increases the rate of water infiltration.
+
+A subsurface drainage system can help to lower the seasonal high water table. 
+
+The movement of water into the subsurface drains, however, is restricted. Drainage guides can be used to determine the spacing requirements for tile.
+
+Including deep-rooted cover crops in the rotation improves soil structure and provides pathways in the clayey subsoil, thereby facilitating the movement of water into subsurface drains.
+
+Pastureland
+
+Excess water should be removed, or species of grasses or legumes that are adapted to wet soil conditions should be grown.
+
+Compaction can be minimized by restricting grazing during wet periods.
+
+Forestland
+
+The seasonal high water table can restrict root respiration, thereby inhibiting the growth of some species of seedlings.
+
+Because of the low strength of the soil, ruts may form, resulting in unsafe conditions and damage to equipment
+
+Wetness in the soil can limit the use of logging trucks.
+
+Because of the content of clay, this soil becomes sticky when wet. The stickiness increases the cost of constructing haul roads and log landings, reduces the efficiency of mechanical planting equipment, and restricts the use of equipment for site preparation to the drier periods.
+
+Building Sites
+
+This soil is generally unsuited to building site development. It is subject to rare flooding under unusual weather conditions. The flooding can result in physical damage and costly repairs to buildings. Special design of structures, including farm outbuildings, may be needed to avoid the damage.
+
+In some areas, the high content of clay in the subsoil increases the difficulty of digging, filling, and compacting the soil material in shallow excavations.
+
+Septic Tank Absorption Fields
+
+Because of the seasonal high water table, this soil is generally unsuitable as a site for septic tank absorption fields.
+
+Flooding, on rare occasions, limits the absorption and proper treatment of effluent from septic systems.
+
+Rapidly moving floodwater can damage some components of septic systems.
+
+Local Roads and streets
+
+Because of shrinking and swelling, this soil may not be suitable as base material for local roads and streets.
+
+The seasonal high water table affects the ease of excavation and grading and limits the load-bearing capacity of the soil.
+
+Roads and bridges need special design to avoid the damage caused by flooding.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Supporting documentation for QC includes the following:
+
+Project Name: SDJR  MLRA 131A  Schriever clay, 0 to 1 percent slopes
+
+National MU symbol and name  2qr6r; MLRA 131A Schriever clay, 0 to 1 percent slopes
+
+MLRA DMU record ID and name  601810; MLRA 131A Schriever clay, 0 to 1 percent slopes
+
+Representative Pedon for this MU/DMU:
+	User Site ID: LA095-Schriever NF MUTL
+	User Pedon ID: S2002-LA095-004
+	Pedon Record ID:  112797
+
+Supporting non representative pedons include the following:
+User Site ID			User Pedon ID			    Pedon Record ID	 Parish
+LA093 Schriever SkA MP	05LA093 Schriever SkA MP	183854		     St. James
+1988LA075017		    1988LA075017		        777594*		     Plaquemines
+1972LA005015		    1972LA005015		        805627*		     Ascension
+1987LA071005		    1987LA071005		        805605*		     Orleans
+
+*Indicates supporting pedons entered into NASIS as TUDs
+
+Lab Data: NSSL Characterization data  S02LA-095-004
+
+Spatial maps created for this SDJR project includes: Geographic Extent Map of the Schriever Soil Series and multiple Schriever clay, 0 to 1 percent slopes spatial distribution maps displaying map unit extents by MLRA/parish, mean annual air temperature, mean annual precipitation, and the thermic-hyperthermic line.
+
+The Classification and Correlation of the Soils of St. John the Baptist Parish, Louisiana and Final Quality Assurance Worksheet documents were reviewed and the information regarding the Schriever clay, 0 to 1 percent slopes was used for the construction of this MLRA map unit concept.
+
+Schriever clay, 0-1% slopes and Schriever clay MLRA MU DMU data Excel spreadsheet
+
+Schriever clay, 0-1% slopes Project Completion Worksheet (Word Document)
+
+Schriever clay, 0-1% slopes Compiled MUDs (Word Document)
+
+These supporting documents were included in the folder ""Schriever clay, 0-1%_Master_Sharepoint_Folder"" and uploaded to the MO7-DEN sharepoint site.
+
+NASIS Reports:
+1.	UTIL  Comparison of Bulk Densities, stored vs. calc  DMU
+2.	UTIL  Comparison of CEC and ECEC, stored vs. calc  EX
+3.	UTIL  Comparison of Concrete Corrosion, sto vs. cal  EX
+4.	UTIL  Comparison of Frags & Sieves, sto vs. calc  EX
+5.	UTIL  Comparison of Frost Action, sto vs. calc  EXPORT
+6.	UTIL  Comparison of HSG, stored vs. calculated  EXPORT
+7.	UTIL  Comparison of K factor, stored vs. cal  DMU  EXPORT
+8.	UTIL  Comparison of LL and PI, stored vs. calc  EXPORT
+9.	UTIL  Comparison of T Factor, stored vs. calculated  EXPORT
+10.	UTIL  Comparison of UNIFIED & AASHTO, stor vs. calc  EXPORT
+11.	UTIL  Comparison of Water Contents, stored vs. calc  EXPORT
+12.	UTIL  Comparison of WEGWEI, stored vs. calculated  EXPORT
+13.	SDJR  DMU Quality Check
+"|"610859"|"1586836"
+07/19/2007 00:00:00|"Correlation notes"|||"This map unit was changed to the hyperthermic counter part of the Tunica soils mapped south of I-10 on the Mississppi River.  TuA was correlated to Thibaut silty clay, 0 to 1 percent slopes."|"610868"|"1586845"
+06/21/1999 00:00:00|"Correlation notes"|||"Thibaut clay map unit pedon; 30o22'25.4"" N. Lat., 91o08'33.72"" W. Long.
+In a cleared field near a drainage canal.  In addition to being only about 50 yards from a drainage ditch this site also has some shallow depressions excavated in it that are planted to catail.  The area looks dried up and is thought not to flood.  The description looks consistent with the pedon reviewed, however it was suggested that the upper part of the discontinuity (2Bg1 horizon) feels more like a silty clay loam than a silt loam."|"610868"|"1586846"
+04/06/2005 00:00:00|"Correlation notes"|||"TuA Tunica,  it was determined that no TP was available for this map unit.  PL will locate and collect a description for this MU."|"610868"|"1586847"
+07/19/2007 00:00:00|"Correlation notes"|||"This map unit complex was added for the hyperthermic counter part of the Sharkey and Tunica soils mapped south of I-10 on the Mississppi River.  SmB was correlated to Schriever and Thibaut clays, gently undulating, frequently flooded."|"1947697"|"1586926"

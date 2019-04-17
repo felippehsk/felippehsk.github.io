@@ -1,0 +1,284 @@
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Water is a miscellaneous area."|"16451188"|"16177859"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Cancienne soil is a minor component."|"16451241"|"16177951"
+04/10/2003 00:00:00|"Miscellaneous notes"|"dif"||"These soils are on higher positions than Sharkey and Tunica soils and are loamy throughout the profile."|"16451241"|"16177952"
+03/05/2007 00:00:00|"Miscellaneous notes"|"RIC"||"RANGE IN CHARACTERISTICS:
+Solum thickness: 20 to 36 inches
+Clay content in the Control Section: 35 to 75 percent above the discontinuity; and 10 to 32 percent below the discontinuity.
+Redoximorphic features: Depleted matrix and iron concentrations in shades of brown throughout the solum.
+Other distinctive soil features: Depth to the contrasting loamy discontinuity ranges from 20 to 36 inches.
+Concentrated minerals: None
+
+A horizon:
+Color--Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 1 or 2, or it is neutral with value of 4, and chroma of 0. Some pedons have a A horizon that is less than 6 inches thick with hue of 10YR or 2.5Y, value of 3, and chroma of 2.
+Redoximorphic features--None
+Texture--silty clay or clay. Some pedons have an overwash of silt loam or silty clay loam.
+Other features--None
+Reaction--Moderately acid to slightly alkaline, except where limed
+
+Bg horizon:
+Color--The upper part has hue of 10YR, 2.5Y, or 5Y, value of 4 or 5, and chroma of 1, or value of 6, and chroma of 1 or 2, or it is neutral with value of 4 to 6, and chroma of 0. The lower part has hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of 1 or 2. In some pedons, it is neutral, with value 4 to 6 and chroma of 0.
+Redoximorphic features--Iron concentrations in shades of brown are few to common throughout the B horizon.
+Texture--Silty clay or clay
+Other features--Pressure faces and slickensides
+Reaction--Moderately acid to slightly alkaline
+
+2CB or 2BC horizon: (where present)
+Color--Hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of 1 or 2. In some pedons, it is neutral, with value 4 to 6 and chroma of 0.
+Redoximorphic features--Iron concentrations in shades of brown are few to common throughout.
+Texture--Silt loam, loam, silty clay loam, sandy loam, fine sandy loam or very fine sandy loam
+Other features--Weak, subangular blocky structure and faint clay films on pores and ped faces in some pedons.
+Reaction--Moderately acid to moderately alkaline
+
+2C horizon:
+Color--Hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of 1 or 2. In some pedons, it is neutral, with value 4 to 6 and chroma of 0; also, below a depth of 30 inches, some pedons are variegated in shades of brown, yellow, and gray.
+Redoximorphic features--Iron concentrations in shades of brown are few to common throughout.
+Texture--Silt loam, loam, silty clay loam, sandy loam, fine sandy loam or very fine sandy loam, and the lower part in some pedons is loamy fine sand.
+Other features--None
+Reaction--Moderately acid to moderately alkaline"|"16451242"|"16177953"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Thibaut component makes up 45 percent of the map unit. Slopes are 0 to 3 percent. This component is on intermediate position on natural levees on Mississippi River delta plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"16451242"|"16177954"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Schriever, gently undulating component makes up 50 percent of the map unit. Slopes are 0 to 3 percent. This component is on meander scars on delta plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"16451243"|"16177955"
+07/20/2001 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 60 to more than 80 inches
+<@33><i>Clay content in the Control Section: <p> 35 to 60 percent. Some pedons have thin layers in the lower part of the control section that have more than 60 percent clay.
+<@33><i>Redoximorphic features: <p> Depleted matrix with iron accumulations throughout the solum
+<@33><i>Other distinctive soil features: <p> Depth to subsoil layers with less than 40 percent clay ranges from 30 to 60 inches. A clayey discontinuity is at 60 to more than 80 inches deep in some pedons. 
+<@33><i>Concentrated minerals: <p> None
+
+<@23><i>Ap horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 3 to 5, and chroma of 1 or 2; or it is neutral with value of 4.
+<@31>Redoximorphic features= Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Texture is commonly silty clay loam or silty clay, however some pedons have a surface mantle of recent overwash material that is stratified silt loam.
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=6 to 12 inches
+
+<@23><i>Bssg horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1; or it is neutral with value of 4 to 6.  Some pedons have value of 3 and chroma of 1 in the upper part of the Bssg horizon within a depth of 12 inches.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray are common.  Soft masses of manganese accumulation are none to common.
+<@31>Texture=Silty clay or clay
+<@31>Other features=Some pedons have thin lenses or seams of material with hue of 5YR or redder within the horizon.
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=18 to 50 inches
+
+<@23><i>Ab horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 3 or 4, and chroma of 1 or 2.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Silty clay loam
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=0 to 10 inches
+
+<@23><i>Bg or Bgb horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1 or 2; or it is neutral with value of of 4 to 6.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from few to common.
+<@31>Texture=Silty clay loam in the parts within a depth of 40 inches. Texture is silt loam, silty clay loam or very fine sandy loam with or without strata or lenses of clay or silty clay in the parts below 40 inches.
+<@31>Other features=Some pedons have thin lenses or seams of material with hue of 5YR or redder within the horizon.
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness= inches
+
+<@23><i>2BCg or 2Cg horizon:    (where present)    <p>
+<@31>Color=Hue of 2.5Y to 5BG, value of 3 to 6, and chroma of 1 or less.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Silty clay, clay, or silty clay loam
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness= inches
+
+
+Correlation notes:
+
+1) Expand clay content in the control section to 60% on OSD.  Also, require only that the clay must drop back to 40% within the control section, rather than 35%.  These are both documented by lab data on the OSD TP.
+2) Allow the upper part of the Bssg horizon to be 3/1 in the parts within a depth of 12 inches."|"16451271"|"16177992"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gramercy soil is a minor component."|"16451271"|"16177993"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Thibaut soil is a minor component."|"16451272"|"16177994"
+04/20/2009 00:00:00|"Miscellaneous notes"|"RIC"||"Solum thickness: 51 to 152 centimeters, (20 to 60 inches)
+Depth to the contrasting fine-silty discontinuity: 51 to 102 centimeters, (20 to 40 inches). Another discontinuity that is clayey is below a depth of 127 centimeters (50 inches) in some pedons.
+Reaction: moderately acid to moderately alkaline throughout
+
+Ap or Assg horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 1 or 2; or it is neutral with value of 4 
+Combined thickness: less than 12 inches, where value is 3. 
+Texture: silty clay or clay, some pedons have a surface mantle of recent overwash material of stratified silt loam or silty clay loam
+
+Bssg horizon:
+Hue: 10YR to 5Y 
+Value: 4 to 6
+Chroma: 1 or 2; or it is neutral with value of 4 to 6 
+Redoximorphic features: Masses of iron accumulation and iron depletions in shades of brown and gray throughout the Bssg horizon. Some pedons have thin lenses or seams of material with hue of 5YR or redder within the Bssg horizon 
+Texture: silty clay or clay
+
+2Bg and 2Cg horizons:
+Hue: 10YR to 5Y
+Value: 3 to 6
+Chroma: 1 or 2 or they are neutral with value of 4 to 6
+Texture: silt loam, loam, silty clay loam, or very fine sandy loam within a depth of 40 inches, and included, fine sandy loam or loamy fine sand below 40 inches in some pedons
+
+3Cg or 4Cg horizons, where present:
+Hue: 2.5Y to 5BG
+Value: 3 to 6
+Chroma: 1 or less 
+Texture: silty clay loam, silty clay, or clay"|"16451272"|"16177995"
+02/26/2014 00:00:00|"Certification notes"|"not converted"|"forage suitability"|"The following data was not converted during the NASIS 6.3 conversion - component forage suitability G000:  forsgrptype =G, forsgrpmlra =null, forsgrplur =null, forsgrpnumber =null, forsgrpstate =null"|"16451272"|"16177996"
+07/20/2001 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 10 to 50 inches
+<@33><i>Clay content in the Control Section: <p> 6 to 18 percent
+<@33><i>Redoximorphic features: <p> Depleted matrix with iron accumulations at less than 20 inches deep
+<@33><i>Other distinctive soil features: <p> None
+<@33><i>Concentrated minerals: <p> The soil materials have very slight to slight effervescence in dilute HCl in the parts between 10 and 20 inches deep.
+
+<@23><i>A or Ap horizon: <p>
+<@31>Color=Hue of 10YR, value of 4 or 5, and chroma of 2 or 3; or hue of 7.5YR, value of 4 and chroma of 2.
+<@31>Redoximorphic features= Iron accumulations in shades of brown and iron depletions in shades of gray are present in some pedons.
+<@31>Texture=Silt loam, very fine sandy loam, or fine sandy loam.
+<@31>Other features=None to slight effervescence in dilute HCl in the parts within a depth of 10 inches; and very slight to slight effervescence in dilute HCl in the parts below that.
+<@31>Reaction=Moderately acid through moderately alkaline
+<@31>Thickness=4 to 14 inches. If a Bg or Bw horizon is not present, an Ap2 horizon that has weak to moderate structural development has it's lower boundary at more than 6 inches
+
+<@23><i>Bg or Bw horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 1 or 3, however the range also includes value 6 in the lower part; or hue of 7.5YR, value of 4, and chroma of 2 to 4. Some layer or strata with chroma of 3 or 4 has its upper boundary within a depth of 30 inches.  In many pedons, the entire Bg horizon has been truncated by bedding for sugarcane cultivation and is part of the Ap horizon.
+<@31>Redoximorphic features=Iron accumulations in shades of brown and iron depletions in shades of gray range from few to many.
+<@31>Texture=Dominantly silt loam, loam, or very fine sandy loam, but some pedons have thin strata of finer or coarser material.
+<@31>Other features=Very slight to slight effervescence in dilute HCl in the parts within a depth of 20 inches; and none to slight effervescence in dilute HCl in the parts below that.
+<@31>Reaction=Neutral through moderately alkaline in the parts within a depth of 20 inches, and moderately acid through moderately alkaline in the parts below that.
+<@31>Thickness=0 to 46 inches
+
+<@23><i>C horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 2, however the range also includes value 6 in the lower part, or subhorizons with chroma of 3 or 4 that are due to color of the sand or silt grains. Some subhorizon of the Bg or C horizon within a depth of 20 inches must have chroma of 2 or less in the matrix however.
+<@31>Redoximorphic features=Iron accumulations in shades of brown and iron depletions in shades of gray range from few to many.
+<@31>Texture=Dominantly is silt loam, loam, or very fine sandy loam, but some pedons have thin strata of finer or coarser material.
+<@31>Other features=Very slight to slight effervescence in dilute HCl in the parts within a depth of 20 inches; and none to slight effervescence in dilute HCl in the parts below that.
+<@31>Reaction=Moderately acid through moderately alkaline
+<@31>Thickness= inches
+
+<@23><i>Ab horizon:    (where present) <p>
+<@31>Color=Hue of 10YR, value of 4 or 5, and chroma of 1 or 2. .
+<@31>Redoximorphic features=Iron accumulations in shades of brown and iron depletions in shades of gray range from few to many.
+<@31>Texture=Fine sandy loam, loamy very fine sand, very fine sandy loam, loam, silt loam, silty clay loam, clay loam, silty clay, or clay.
+<@31>Other features=Depth to a burried A horizon is more than 40 inches.
+<@31>Reaction=Moderately acid through moderately alkaline
+<@31>Thickness=0 to 10 inches
+
+
+<@23><i>Cg horizon: <p>
+<@31>Color=Hue of 10YR to 5GY, value of 4 to 6, and chroma of 1 or 2.
+<@31>Redoximorphic features=Iron accumulations in shades of brown and iron depletions in shades of gray range from few to many.
+<@31>Texture=Dominantly is silt loam, loam, or very fine sandy loam, but some pedons have thin strata of silty clay loam or silty clay below a depth of 40 inches.
+<@31>Other features=Many pedons have wood fragments in the Cg horizon.
+<@31>Reaction=Moderately acid through moderately alkaline
+<@31>Thickness= inches"|"16451273"|"16177997"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Carville soil is a minor component."|"16451273"|"16177998"
+04/20/2009 00:00:00|"Miscellaneous notes"|"RIC"||"Solum thickness: 20 to more than 80 inches
+Clay content in the Control Section: 18 to 30 percent
+Redoximorphic features: Depleted matrix with masses of iron concentration throughout the subsoil and substratum.
+Other distinctive soil features: Lenses or layers with more than 35 percent clay are at more than 40 inches deep
+Concentrated minerals: Some pedons have slight or very slight effervescence in cold dilute HCl in any of the layers.
+ 
+A or Ap horizon:
+Color--Hue of 10YR or 2.5Y, value of 3 to 5, and chroma of 1 to 3. Under sugercane culture the lower part of the Ap horizon of some pedons has hue of 5Y. Where value is 3, thickness is less than 10 inches.
+Redoximorphic features-- Iron accumulations, where present, are in shades of brown and iron depletions are in shades of gray.
+Texture--Silt loam, very fine sandy loam, loam, or silty clay loam.
+Reaction--Strongly acid to moderately alkaline 
+
+Bg or BC horizon:
+Color--Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 1 or 2. In many pedons, the entire B horizon has been truncated by bedding for sugarcane cultivation and is part of the Ap horizon. A B horizon, or the lower part of the Ap horizon with a dominent matrix chroma of 2 must begin within a depth of 20 inches.
+Redoximorphic features--Masses of iron accumulation in shades of red are in the upper part in some pedons. Masses of iron accumulation in shades of brown or yellow are throughout.
+Other features--Some pedons have dark gray or very dark grayish brown organic coatings on ped surfaces.
+Texture--Silt loam, loam, or silty clay loam with or without thin to thick strata of silty clay below a depth of 40 inches.
+Reaction--Neutral to moderately alkaline
+ 
+Ab horizon: (where present)
+Color--Hue of 10YR or 2.5Y, value of 3 to 5, and chroma of 1 or 2.
+Redoximorphic features--Iron accumulations, where present, are in shades of brown and iron depletions are in shades of gray.
+Texture--Silt loam, very fine sandy loam, loam, or silty clay loam.
+Reaction--Neutral to moderately alkaline.
+Thickness--0 to 12 inches 
+
+BCgb or BCssgb horizon: (where present)
+Color--Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 1 or 2.
+Redoximorphic features--Masses of iron accumulation in shades of brown or yellow are throughout.
+Texture--Silty clay
+Other features--Depth to this horizon, where present, is more than 50 inches.
+Reaction--Neutral to moderately alkaline
+Thickness--0 to more than 20 inches 
+
+Cg horizon: (where present)
+Color--Hue of 10YR to 5Y, value of 4 or 5, and chroma of 1 or 2. Strata of very fine sandy loam with chroma of 3 are in some pedons.
+Redoximorphic features--Masses of iron accumulation in shades of brown or yellow are throughout.
+Texture--Commonly is stratified, with textures ranging from silt loam or very fine sandy loam to silty clay.
+Reaction--Neutral to moderately alkaline."|"16451274"|"16177999"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Cancienne component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Lower natural levees on alluvial plains. The parent material consists of silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 2 percent. There are no saline horizons within 30 inches of the soil surface. "|"16451274"|"16178000"
+02/26/2014 00:00:00|"Certification notes"|"not converted"|"forage suitability"|"The following data was not converted during the NASIS 6.3 conversion - component forage suitability G131A000:  forsgrptype =G, forsgrpmlra =131A, forsgrplur =null, forsgrpnumber =null, forsgrpstate =null"|"16451274"|"16178001"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Thibaut soil is a minor component."|"16451279"|"16178007"
+07/20/2001 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 60 to more than 80 inches
+<@33><i>Clay content in the Control Section: <p> 35 to 60 percent. Some pedons have thin layers in the lower part of the control section that have more than 60 percent clay.
+<@33><i>Redoximorphic features: <p> Depleted matrix with iron accumulations throughout the solum
+<@33><i>Other distinctive soil features: <p> Depth to subsoil layers with less than 40 percent clay ranges from 30 to 60 inches. A clayey discontinuity is at 60 to more than 80 inches deep in some pedons. 
+<@33><i>Concentrated minerals: <p> None
+
+<@23><i>Ap horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 3 to 5, and chroma of 1 or 2; or it is neutral with value of 4.
+<@31>Redoximorphic features= Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Texture is commonly silty clay loam or silty clay, however some pedons have a surface mantle of recent overwash material that is stratified silt loam.
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=6 to 12 inches
+
+<@23><i>Bssg horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1; or it is neutral with value of 4 to 6.  Some pedons have value of 3 and chroma of 1 in the upper part of the Bssg horizon within a depth of 12 inches.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray are common.  Soft masses of manganese accumulation are none to common.
+<@31>Texture=Silty clay or clay
+<@31>Other features=Some pedons have thin lenses or seams of material with hue of 5YR or redder within the horizon.
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=18 to 50 inches
+
+<@23><i>Ab horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 3 or 4, and chroma of 1 or 2.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Silty clay loam
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=0 to 10 inches
+
+<@23><i>Bg or Bgb horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1 or 2; or it is neutral with value of of 4 to 6.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from few to common.
+<@31>Texture=Silty clay loam in the parts within a depth of 40 inches. Texture is silt loam, silty clay loam or very fine sandy loam with or without strata or lenses of clay or silty clay in the parts below 40 inches.
+<@31>Other features=Some pedons have thin lenses or seams of material with hue of 5YR or redder within the horizon.
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness= inches
+
+<@23><i>2BCg or 2Cg horizon:    (where present)    <p>
+<@31>Color=Hue of 2.5Y to 5BG, value of 3 to 6, and chroma of 1 or less.
+<@31>Redoximorphic features=Masses of iron accumulation and iron depletions in shades of brown and gray range from none to common.
+<@31>Texture=Silty clay, clay, or silty clay loam
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness= inches
+
+
+Correlation notes:
+
+1) Expand clay content in the control section to 60% on OSD.  Also, require only that the clay must drop back to 40% within the control section, rather than 35%.  These are both documented by lab data on the OSD TP.
+2) Allow the upper part of the Bssg horizon to be 3/1 in the parts within a depth of 12 inches."|"16451280"|"16178008"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gramercy soil is a minor component."|"16451280"|"16178009"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Schriever component makes up 95 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps on Mississippi River delta plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 1 percent.  "|"16451281"|"16178010"
+01/16/2013 00:00:00|"Miscellaneous notes"|"Horizon splitting"||"The component pedon for this Schriever component is User Site ID: LA095-Schriever NF MUTL and User Pedon ID: S2002-LA095-004 and the lab data used to populate this component is tied to this pedon. According to the lab data there is a decrease in clay content (19.7%) at around 100 centimeters (40 inches). This decrease in clay warrented a separation of the Bssg horizons into two separate layers within the DMU Horizon table. They are labeled Bssg1 and Bssg4. "|"16451281"|"16178011"
+03/29/2001 00:00:00|"Miscellaneous notes"|"RIC"||"Thickness of the solum ranges from about 40 to more than 80 inches. Cracks up to 1 inch wide open to a depth of 10 to 24 inches or more in most years. COLE ranges from about 0.1 to 0.2 throughout the Bssg and Bkssg horizons Depth to free carbonates ranges from 20 to more than 60 inches. Depth to layers with n-value greater than 0.7 ranges from 60 to more than 80 inches.
+
+The A or Ap horizon has hue of 10YR or 2.5Y, value of 2 to 4, and chroma of 1 or 2. Texture is clay, silty clay, or silty clay loam. A surface mantle of recent overwash material that is stratified fine sand, loamy fine sand, sandy loam, fine sandy loam, or silt loam up to 12 inches thick is on some pedons near crevasse splays. The overwash material has the same range in colors as the A horizon and also includes dark brown (10YR 4/3) and brown (10YR 5/3). Some pedons have a clayey buried A horizon below a depth of 20 inches. Reaction in the A horizon ranges from moderately acid to moderately alkaline.
+
+The Bg horizon has hue of 10YR through 2 5Y, value of 4 to 6, and chroma of 1 or less; or value of 6 and chroma of 2; or hue of 5Y, value of 4 to 6, and chroma of 2 or less. Iron accumulations in shades of brown, yellow, or red are few to many. Texture is silty clay or clay. Average clay content in the Bg horizon ranges from 40 to about 90 percent. Reaction ranges from moderately acid to moderately alkaline.
+
+The Bssg horizon has hue of 10YR through 2.5Y, value of 4 to 6, chroma of 1 or less; or value of 6 and chroma of 2; or hue of 5Y, value of 4 to 6, and chroma of 2 or less. Iron accumulations in shades of brown, yellow, or red are few to many. Texture is dominantly clay, however subhorizons with texture of silty clay are in many pedons. Some pedons have thin lenses or strata of silty clay loam or silt loam, or clay with hue of 5YR or redder in the Bssg horizon. Average clay content in the Bssg horizon ranges from 60 to about 90 percent. Reaction ranges from strongly acid to moderately alkaline.
+
+Some pedons have a Bkssg horizon that contains up to 20 percent soft masses of calcium carbonate. Where present, it has color and texture ranges similar to that of the Bssg horizon. Reaction ranges from neutral to moderately alkaline.
+
+The BCg and Cg horizons, where present, have hue of 10YR through 5GY, value of 4 to 6, and chroma of 2 or less. Iron accumulations in shades of brown, yellow, or red are few to common. Texture typically is clay or silty clay but in some pedons it is silt loam or silty clay loam below a depth of 40 inches. In some pedons, the Cg horizon has an n-value of 0.7 or more below a depth of 60 inches. Reaction ranges from neutral to moderately alkaline."|"16451281"|"16178012"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Cancienne soil is a minor component."|"16451284"|"16178018"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Schriever soil is a minor component."|"16451285"|"16178019"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Thibaut component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on intermediate position on natural levees on Mississippi River delta plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"16451286"|"16178020"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Made land is a miscellaneous area."|"16451347"|"16178145"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Fausse soil is a minor component."|"16451350"|"16178150"
+04/10/2003 00:00:00|"Miscellaneous notes"|"dif"||"These soils are in higher positions than the Sharkey and Tunica soils and are loamy throughout the profiles."|"16451350"|"16178151"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Schriever component makes up 52 percent of the map unit. Slopes are 0 to 1 percent. This component is on meander scars on delta plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"16451351"|"16178152"
+09/06/2018 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Thibaut component makes up 40 percent of the map unit. Slopes are 1 to 3 percent. This component is on intermediate position on natural levees on Mississippi River delta plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria.   "|"16451352"|"16178153"

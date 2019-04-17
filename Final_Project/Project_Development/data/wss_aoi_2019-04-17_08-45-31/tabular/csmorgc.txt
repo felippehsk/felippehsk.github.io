@@ -1,0 +1,7 @@
+|||"Talf"|"24715088"|"8944027"
+"Center third of mountainflank"|"Base Slope"|"Tread"|"Talf"|"24715194"|"8944073"
+"Center third of mountainflank"|"Base Slope"|"Tread"|"Talf"|"24715093"|"8944029"
+|||"Rise"|"24715096"|"8944032"
+|||"Rise"|"24715095"|"8944031"
+|||"Talf"|"24715094"|"8944030"
+|||"Talf"|"24715099"|"8944034"

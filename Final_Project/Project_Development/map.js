@@ -5,7 +5,7 @@ function init () {
   		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
   	}).addTo(demoMap)
 
-  let ssurgo = 'C:/MSc_Felippe/HTML_CSS_Javascript_codes/WebGIS/Final_Project/Project_Development/data/SSURGO_LA.geojson'
+  let ssurgo = 'https://felippehsk.github.io/Final_Project/Project_Development/data/SSURGO_LA.geojson'
   jQuery.getJSON (ssurgo, function(data){
   	L.geoJSON (data).addTo(demoMap)
   })

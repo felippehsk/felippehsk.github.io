@@ -1,0 +1,7 @@
+"W"|"Water"|"Consociation"||13366|||||||"Not prime farmland"|||||"Order 2"||||||"15023"|"577015"
+"ShB"|"Schriever-Thibaut clays, gently undulating"|"Complex"||3256|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"577044"
+"CmA"|"Cancienne silt loam, 0 to 1 percent slopes"|"Consociation"||6768|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"609759"
+"SeA"|"Schriever clay, 0 to 1 percent slopes"|"Consociation"||2119|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"610859"
+"ThA"|"Thibaut silty clay, 0 to 1 percent slopes"|"Consociation"||2876|||||||"All areas are prime farmland"|||||"Order 2"||||||"15023"|"610868"
+"UA"|"Udarents"|"Consociation"||4311|||||||"Not prime farmland"|||||"Order 2"||||||"15023"|"1726170"
+"SiB"|"Schriever-Thibaut clays, gently undulating, frequently flooded"|"Complex"||4509|||||||"Not prime farmland"|||||"Order 2"||||||"15023"|"1947697"

@@ -1,0 +1,196 @@
+01/30/2002 00:00:00|"Edit notes"|"crop"|"c1"|"These soils are poorly suited to cultivated crops.  The main limitations are sodium salts in the upper part of the solum and seasonal wetness."|"15023"|"63576"
+11/10/1997 00:00:00|"Correlation notes"|"Providence Study"|"State Line"|"United States 	Natural Resources 	3737 Government Street
+Department	Conservation	Alexandria, Louisiana	
+of Agriculture	Service	(318) 473 - 7793		
+
+Subject: Providence-Tangi Map Unit Joining - Louisiana/		Date:  11/10/97
+	Mississippi State Line
+
+To:	Jerry Daigle, State Soil Scientist, Alexandria, La.
+	Dave Jones, State Soil Scientist, Jackson, Ms.
+	Charles Guillory, Assistant State Soil Scientist, Alexandria, La.
+	Mike Lilly, Assistant State Soil Scientist, Jackson, Ms.
+	Wayne Hudnall, Professor, LSU, Baton Rouge, La.
+	Dave Petry, Professor, MSU, Mississippi State, Ms.
+	Charles Fultz, MO Leader, Little Rock, Arkansas
+	Don McDaniel, Project Leader, Eunice, La.
+	Jerome Langlinais, Project Leader, Natchez, Ms.
+
+Nature of the problem:
+East and West Feliciana Parishes, St. Helena Parish, Tangipahoa Parish, and Washington Parish, Louisiana have recently completed, modern Soil Surveys.  The Survey of East and West Felicianas is currently at the editors office.  The surveys for St. Helena, Tangipahoa, and Washington Parishes were completed in the mid to late-eighties and are published.  In all of these surveys, moderately deep loess over coastal plains soils were mapped in Louisiana along the State Line with Mississippi.  The Tangi and Toula series were used to represent these soils in all of these surveys.  The Tangi and Toula series were established in Tangipahoa Parish, Louisiana in 1985.  Both are fine-silty, siliceous, thermic Typic Fragiudults.  The Providence series was not recognized in any of these Parishes.
+
+Wilkinson County, Mississippi has a Soil Survey currently in progress, and Amite County, Mississippi was completed in 1970 and is published. These surveys contain the entire extent of moderately deep loess over coastal plains soils that are mappped in Mississippi along the State Line with Louisiana.  Moderately deep loess soils were also mapped in Pike County, Mississippi, but only in the northwest part of the County and not along the State line.  In  these Counties, Providence was chosen to represent soils on the moderately deep loess over coastal plains materials.  The Providence series was established in Calloway County, Kentucky in 1938, and the current type location is in Lincoln County, Mississippi.  It is a fine-silty, mixed, thermic Typic Fragiudalf.  Tangi or Toula soils are currently not recognized in Mississippi.
+
+The above described descrepancies represent a join problem that affects more than 50 miles of the State Line between Mississippi and Louisiana.  No  reasonable geologic or pedogenic explanation can be found to justify a change in soil order and minerology family along the 310 N. Latitude line that divides the two States.
+
+Differentia among the involved series:. 
+Tangi soils are differentiated from Toula soils by having a clayey, very slowly permeable lower subsoil layer within a depth of 60 inches.  Toula soils do not allow more than 35 percent clay in any part of the solum, and Providence soils do not allow any more than 30 percent clay in any part of the solum.  Tangi and Toula soils both have a silty loess cap that ranges from 18 to 38 inches thick over loamy or clayey coastal plains materials with a fragipan below the discontinuity.  Debute soils have a silty loess cap 20 to 40 inches thick over loamy coastal plains and terrace materials with a fragipan below the discontinuity, but were set up in older loess deposits west of the Mississippi River.  Providence and Dulac soils are both mixed, Alfisols.  Providence soils have a silty loess cap that ranges from about 22 to 48 inches thick over loamy coastal plains materials.  Depth to the fragipan ranges from 18 to 38 inches, and the fragipan is allowed to begin in the loess materials above the discontinuity.  Dulac soils are clayey in all layers below the discontinuity, and the fragipan is above the discontinuity.  Tangi and Toula soils are both siliceous, Ultisols.  Simply put, Tangi is a siliceous, low base counterpart to the Dulac series, and Toula is a silicous, low base counterpart to the Providence series. (See chart below).
+
+	Loess	Depth to	Clay in 	  Water	Minerology
+Soil Name	Cap	 	Fragipan	2B layers	  Table		   	 Family		   pH		Great Group
+Tangi   	18-38	18-38	35-55%	1.5-3.0 (Pe)		Siliceous	4.5-6.0		Fragiudults
+Toula	18-38	18-38	12-35%	1.5-3.0 (Pe)		Siliceous	4.5-6.0		Fragiudults
+Debute	20-40	20-40	15-25%	1.5-3.0 (Pe)		Mixed	4.5-6.0		Fragiudults
+Providence	22-48	18-38	10-30%	1.5-3.0 (Pe)		Mixed	4.5-6.0		Fragiudalfs
+Dulac	30-55	16-34	40-55%	1.0-2.0 (Pe)		Mixed	4.5-5.5		Fragiudalfs
+
+
+Supporting data from Counties and Parishes near the State Line:
+Wilkinson County, Mississippi (MS157):
+	Three pedons have been sampled as Providence near the State Line; S95MS-157-02(1-6), S95MS-157-02(7-13), and S97MS-05-(1-8).  All three had base saturations in the Alfisol range (ranged from 37 to 42% at the critical depths).  Loess caps with 15% or less fine sand and coarser material ranged from 21 to 27 inches thick.  Clay content on the lower part of the solum ranged from 12 to 26%.  Available data for these pedons support Providence soils.  A fourth pedon that was sampled in the same vacinity as Loring (S97MS-157-05(9-16)) turned out to have a loess cap only 45 inches thick according to lab data, and also would fit the ranges for the Providence series.  No minerology analyses have been run on these pedons.  Plans are to run minerology on the coarse silt fraction in the control section for at least one of these pedons.
+
+Amite County, Mississippi (MS005):
+	None of the series in question or similar soils were sampled.
+
+West Feliciana Parish, Louisiana (LA125, combined to LA603):
+	None of the series in question or similar soils were sampled.
+
+East Feliciana Parish, Louisiana (LA037, combined to LA603):
+	Tangi:
+	The Parish TP for the Tangi series in the southeast part of the Parish was sampled (S89LA-037-092).  This pedon has a 20 inch thick loess cap with less than 15 percent fine sand and coarser material.   The clay content goes above 35% at 41 inches deep and stays above 35% to past 80 inches.  The minerology came out siliceous, but was not run on the dominant size fraction (should have been run on coarse silt fraction rather than fine sand).  The base saturation was 15% at the critical depth.  Also, this pedon is an inclusion in a Toula map unit according to Lat.-Lon. coordinates and the location marked on the maps.  Two other Tangi pedons (S89LA-037-74 and S89LA-037-03) were sampled in the same vacinity for fertility data only, and came out with a base saturation of 24% and 27% respectively.  Available data fot all of these pedons appears to support Tangi, however minerology data is not certain.
+	Toula:
+	A pedon was sampled in the southeast corner of the parish and came out well within the Alfisol range (S89LA-037-82).  Available data on this pedon supports Providence.
+
+East Baton Rouge Parish, Louisiana (LA033):
+	Providence:
+	Three pedons were sampled as Providence (S93LA-033-191, S93LA-033-191B, and S93LA-033-191C).  All were in the extreme northeast corner of East Baton Rouge Parish.  Base saturations ranged from 57% to 94% at the critical depths for these pedons.  No particle size or minerology data was run.  Review of notes from E.Baton Rouge Parish indicated that 50 of 56 Tangi pedon descriptions on file have texture of loam or silt loam in the lower part of the subsoil.  All available data indicate that these soils fit base saturation and clay curve of the Providence series.
+
+St. Helena Parish, Louisiana (LA091):
+	Tangi:
+	The Parish TP for the Tangi series in the north-central part of the Parish was sampled (S89LA-091-015).  Base saturation was 25% at the critical depth.  Another Tangi pedon was sampled  in the northwest part of the Parish (S89LA-091-041) and came out with a base saturation of 20%.  No particle size or minerology data were run on these samples.  Available data on both of these pedons support Tangi.
+	Toula:
+	A pedon was sampled in the southeast part of the Parish and came out well within the Alfisol range (S89LA-091-001).  Available data on this pedon supports Providence.
+
+	Loess Cap w/	Depth to	%Clay in 	 Minerol. 	%Base
+Lab Number		<15%FS-CS 	Fragipan	2B layers	 Data	   	 Satur.		Closest Series
+S95MS-157-02(1-6)		25	   25	13-18	 None	37		Providence	
+S95MS-157-02(7-13)	21	   21	19-25	 None	42		Providence
+S97MS-157-05(1-8)		27	   19	15-25	 None	43		Providence
+S97MS-157-05(9-16)	45	   11	15-18	 None	49		Providence
+S89LA-037-92		20	   41	36-42	 Siliceous	15		Tangi
+S89LA-037-74		19	   19	?(>35)	 None	24		Tangi
+S89LA-037-3		19	   19	?(>35)	 None	27		Tangi
+S89LA-037-82		32	   32	?(<35)	 None	64		Providence
+S93LA-033-191		?	    ?	    ?	 None	57		Providence
+S93LA-033-191B		?	    ?	    ?	 None	92		Providence
+S93LA-033-191C		?	    ?	    ?	 None	65		Providence
+S89LA-091-001		36	   36	?(<35)	 None	48		Providence
+S89LA-091-015		28	   28	?(>35)	 None	25.5		Tangi
+S89LA-091-041		19	   19	?(>35)	 None	20		Tangi
+
+
+See figure A for relative locations of the Pedons discussed above.
+
+Transect data:
+	Several transects have been run in Providence map units in the southeastern part of Wilkinson County, Mississippi, and in Tangi Map units in West Feliciana Parish and in the northwestern parts of East Feliciana Parish, Louisiana.  Locations of those transects are shown on Fig. A, and a summary of data is shown in tables 1 through 6.	The thickness of the loess cap was estimated at each transect stop by measuring the depth where some increase in fine sand content became evident, and/or where quartz pebbles were first detected.  These depths may have been overestimated on many of the stops as lab data indicates that up to 25 percent fine sand and coarser material is present in the lower parts of what has been described as the loess cap in pedons sampled in Wilkinson County, Mississippi.  Other than transect 2, all of the transects showed similar patterns of soil characteristics.   Many inclusions of soils that are silt loam or light silty clay loam to 60 or more inches deep were found on most transects.  These were recorded as Loring soils, however many of these might have had significant increases in fine sand within 4 feet that werent easily detected by feel.  As such, many of the stops recorded as Loring on these transects may have actually fit the ranges for Providence or Toula soils, depending upon the base saturation.  Very few pedons (other than on transect 2) had clayey subsoil layers.  Rather, many had significant amounts of loamy sand, fine sandy loam, or loam strippings in the lower parts of the subsoil below the fragipan.  These layers probably would meet criteria for Glossic horizons.  The most dominant soil found on all but one of the transects was a soil that appeared to fit the ranges for either Providence or Toula soils, depending on the base saturation and minerology.  However, most of these soils had textures of sandy loam, sandy clay loam, or loam in the 2Bt horizon below the fragipan, which is not allowed for the Toula series.  Base saturation samples were collected from the critical depths at representative stops on transect 1, transect 3, and transect 6.  Data from these samples will help to fill in gaps in base saturation data from the northeast part of West Feliciana Parish, and the northwest part of East Feliciana Parish.
+
+Results and recommendations:
+More base saturation and minerology data are still pending from the southeast  corner of Wilkinson County, Mississippi.  More base saturation data are pending from the northeast corner of West Feliciana Parish and the northwest corner of East Feliciana Parish.  However, judging only from data currently on hand, there appears to be a dominance of Alfisols in the moderately deep loess soils west a line beginning at the Comite River in the southern part of Amite County, Mississippi, that runs from there in a southeasterly direction roughly paralel to the Mississippi River to the point where the boundaries of East Feliciana Parish, St. Helena Parish, and East Baton Rouge Parish all intersect (see figure B).  Further, these Alfisols appear to fit the ranges for the Providence series better than any other existing series.  More samples and transects need to be run in the south central part of East Feliciana Parish, and in the north central part of East Baton Rouge Parish to determine whether this pattern persists.  If so the Tangi and Toula soils west of that line in these Counties and Parishes should probably be correlated to Providence soils, and that Tangi and Toula soils will need to be kept east of that line.
+
+ 
+			TRANSECT 1		
+COUNTY: West Feliciana	Map Sheet:  6		Map Unit:  Tg
+LOCATION: 	start:	3005816.31		end:	3005814.58
+		9101314.63			9101310.62
+LENGTH & DIRECTION: 388 @ 1170
+Stop	Loess Cap	              Texture & Clay Content 			
+Number	Thickness	                    of  the 2Bt horizon                	Closest  series	
+    1 1/	22	SCL w/ <35% clay to past 70		Providence
+    2 	34	LS from 40 to past 70			Providence
+    3	12	SCL w/ < 30% clay to past 70		Smithdale
+    4	60	SCL w/ < 30% clay to past 70		Loring 2/
+    5 	30	SCL w/ < 30% clay to past 70		Providence
+
+
+
+
+
+			TRANSECT 2		
+COUNTY: West Feliciana	Map Sheet:  6		Map Unit:  Tg
+LOCATION: 	start:	3005741.53		end:	3005744.97
+		9101203.45			9101204.19
+LENGTH & DIRECTION: 352 @ 1700
+Stop	Loess Cap	              Texture & Clay Content 		
+Number	Thickness	                    of  the 2Bt horizon                	Closest	Series	
+    1	25	Clayey throughout				Tangi
+    2 	11	Clayey throughout				Tangi like
+    3	24	Clayey throughout				Tangi
+    4	27	Clayey throughout				Tangi
+    5 	22	Clayey throughout				Tangi
+
+
+
+
+			TRANSECT 3		
+COUNTY: East Feliciana	Map Sheet:  3		Map Unit:  Tg
+LOCATION: 	start:	3005846.93		end:	3005850.38
+		9100103.95			9100117.08
+LENGTH & DIRECTION: 1195 @ 2870
+Stop	Loess Cap	              Texture & Clay Content 		
+Number	Thickness	                    of  the 2Bt horizon                	Closest	Series	
+    1	>44	Lower 2Bt not checked			Providence
+    2 	  35	Lower 2Bt not checked			Providence/Toula
+    3	>48	Lower 2Bt not checked			Alluvium
+    4	    6	Lower 2Bt not checked			Smithdale
+    5 	  33	SCL w/ FSL pockets (< 30% clay) to past 60	Providence
+    6 1/	  40	SCL w/ FSL pockets (30-35% clay) to past 60Providence
+    7	    6	Lower 2Bt not checked			Smithdale
+    8	>45	Lower 2Bt not checked			Allluvium
+    9	>48	Lower 2Bt not checked			Loring 2/
+   10	  40	SCL w/ LS pockets (< 30% clay) @ 50-70+	Providence
+
+1/	Critical depth was sampled for base saturation
+2/	Loess cap thickness might have been overestimated where a significant increase in fine sand content was not detected by feel (ie. may be Providence or Toula rather than Loring).
+ 
+
+			TRANSECT 4		
+COUNTY: West Feliciana	Map Sheet:  Inset to 10	Map Unit:  Tg/Ta
+LOCATION: 	start:	3005355.67		end:	3105355.85
+		9101411.65			9101416.50
+LENGTH & DIRECTION: 423 @ 2720
+Stop	Loess Cap	              Texture & Clay Content 		
+Number	Thickness	                    of  the 2Bt horizon                	Closest	Series	
+    1	60							Loring 2/
+    2 	70							Loring 2/
+    3	35	Clayey from 40 to past 70			Tangi
+    4	35	SL to beyond 70				Providence
+    5 	60	CL w/ < 30% clay to past 70		Loring 2/
+
+
+
+
+
+			TRANSECT 5		
+COUNTY: West Feliciana	Map Sheet: 10	Map Unit: Ta
+LOCATION: 	start:	3005615.03		end:	3005610.53
+		9101213.54			9101213.40
+LENGTH & DIRECTION:  456 @ 1780
+Stop	Loess Cap	              Texture & Clay Content 		
+Number	Thickness	                    of  the 2Bt horizon                	Closest	Series	
+    1	35	SiCL w/ 30-35% clay @ 70-80		Providence/Toula
+    2 	70	SCL w <35% clay to past 70		Loring 2/
+    3	48	SiCL w/ 30-35% clay @ 70-80		Providence
+    4	70							Loring 2/
+    5 	70							Loring 2/
+
+
+
+
+			TRANSECT 6		
+COUNTY: West Feliciana	Map Sheet: 8	Map Unit: Ta/Tg
+LOCATION: 	start:	3005540.56		end:	3005538.64
+		9100241.48			9100247.28
+LENGTH & DIRECTION:  542 @ 2490
+Stop	Loess Cap	              Texture & Clay Content 		
+Number	Thickness	                    of  the 2Bt horizon                	Closest	Series	
+    1	40	SCL w/ LS pockets (<30% clay) to past 70	Providence
+    2 	60	SCL w/ LS pockets (<30% clay) to past 70	Loring 2/
+    3	40	SCL w/ FSL pockets (<35% clay) @ 50-70	Providence
+    4	40	SCL w/ FSL pockets (<35% clay) @ 50-70	Providence
+    5 1/	34	SCL w/ FSL pockets (<35% clay) @ 50-70	Providence
+    6	30	SCL w/ FSL pockets (<35% clay) @ 50-70	Providence
+
+
+
+1/	Critical depth was sampled for base saturation
+2/	Loess cap thickness might have been overestimated where a significant increase in fine sand content was not detected by feel (ie. may be Providence or Toula rather than Loring)."|"15023"|"63577"

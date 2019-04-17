@@ -1,0 +1,7 @@
+"AMAR5"|"Ampelopsis arborea"|"peppervine"|||"16451286"|"70367253"
+"CRATA"|"Crataegus"|"hawthorn"|||"16451286"|"70367288"
+"FOAC"|"Forestiera acuminata"|"eastern swampprivet"|||"16451286"|"70367291"
+"IVA"|"Iva"|"marshelder"|||"16451286"|"70367294"
+"SMILA2"|"Smilax"|"greenbrier"|||"16451286"|"70367352"
+"TORA2"|"Toxicodendron radicans"|"eastern poison ivy"|||"16451286"|"70367356"
+"VITIS"|"Vitis"|"grape"|||"16451286"|"70367359"
