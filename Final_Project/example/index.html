@@ -1,0 +1,326 @@
+<html>
+<head>
+		<title>Orbital Views</title>
+    
+     <!-- Weather stuff -->
+    <meta charset="utf-8" />
+
+	<link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet" />
+
+	<meta name="theme-color" content="#161616">
+	<meta http-equiv="refresh" content="1800" />
+	<meta name="viewport" content="width=1000px" />
+	
+	<link rel="manifest" href="manifest.json">
+	<link rel="apple-touch-icon" sizes="57x57" href="../static/owm-display/img/favicon/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="../static/owm-display/img/favicon/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../static/owm-display/img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../static/owm-display/img/favicon/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../static/owm-display/img/favicon/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../static/owm-display/img/favicon/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="../static/owm-display/img/favicon/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../static/owm-display/img/favicon/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="../static/owm-display/img/favicon/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/android-chrome-256x256.png" sizes="256x256">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/android-chrome-384x384.png" sizes="384x384">
+	<link rel="icon" type="image/png" href="../static/owm-display/img/favicon/android-chrome-512x512.png" sizes="512x512">
+    
+    
+    <!-- The Google JavaScript loader tool (for the Maps, Charts APIs). -->
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCx9GT-2M3aXMhx2Ge8V3k5xXfuL1RKl_s&sensor=false&libraries=drawing,places"></script>
+    
+    <!-- Google Web Fonts. and Material -->
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto+Condensed'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.1.3/material.green-light_green.min.css" />
+    <script defer src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+      
+<!-- Third-party JavaScript. -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/6.1.5/bootstrap-slider.min.js"></script>
+    <script data-require="angularjs@1.5.7" data-semver="1.5.7" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+		
+	<!-- Third-party CSS. -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/6.1.5/css/bootstrap-slider.min.css">
+
+<!-- local Javascript and CSS-->
+    <link rel="stylesheet" href="../static/style.css">
+    <link rel="stylesheet" href="../static/searchbox.css">   
+    <script type="text/javascript" src="../static/script.js"></script>
+    <script type="text/javascript" src="../static/ui.js"></script>
+    <script type="text/javascript" src="../static/searchbox.js"></script>
+    <script type="text/javascript" src="../static/ee_api_js.js"></script>
+    
+<!-- Google Analytics -->   
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90475170-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>   
+    
+    
+</head>
+<body>
+
+
+<div class="biomass">
+    <div class='bm-map'></div>
+    <input id="pac-input" class="controls" type="text" placeholder="Search Box"/>
+	<div class="loader "></div>
+	<div class="barwater"></div>
+	<div class="barndvi"></div>
+	<div class="barmoisture"></div>
+	<div class="barvar"></div>
+
+
+    <div id='bm-toolbox' class='bm-toolbox bm-shadow mdl-grid gradient2'>
+        
+        <div class="bm-draggable bm-title mdl-cell mdl-cell--12-col" target-bind="bm-toolbox">OrbitalViews<br/>Beta</div>
+        <hr width="100%">
+        <center><div class="legend-block">
+        <div class="mdl-cell mdl-cell--12-col" target-bind="bm-toolbox" data-count="1">
+ 		
+        <button id="btn1" class="mdl-button mdl-js-button mdl-button--raised"   style="background:rgb(112, 128, 144);">
+          RGB Image
+        </button>
+        <button id="btn2"  class="mdl-button mdl-js-button mdl-button--raised"  style="background:rgb(112, 128, 144);">
+          Biomass
+        </button>
+        <button id="btn3" class="mdl-button mdl-js-button mdl-button--raised"  style="background:rgb(112, 128, 144);">
+          Moisture
+        </button>
+        <button id="btn4" class="mdl-button mdl-js-button mdl-button--raised"  style="background:rgb(112, 128, 144);">
+          Biomass <br> Variance
+        </button>
+        <button id="btn5" class="mdl-button mdl-js-button mdl-button--raised"  style="background:rgb(112, 128, 144);">
+          Water <br>  Need 
+        </button></div>
+        
+        
+      	<input id="biomassControl" data-slider-id='biomassControlSlider' type="text" data-slider-min="0" data-slider-max="1" data-slider-step="0.1" data-slider-value="1" />
+		 <script>
+		 $('#biomassControl').slider({
+		     formatter: function(value) {
+		         planet.App.prototype.opacity(value);
+		     }
+		 });</script></div></center>
+     
+        <hr width="100%">
+        <div class='mdl-cell mdl-cell--9-col'>
+            <div class='bm-console'>&nbsp;
+            <div id ="locationLat"></div>
+            <div id ="locationLng"></div>
+            </div>  
+        </div>
+        <hr width="100%">
+
+        <div class="mdl-cell mdl-cell--3-col bm-toolbar">
+            <button class="mdl-button mdl-js-button mdl-button--icon" id="mark" >
+                <i class="material-icons">mode_edit</i>             
+            </button><br/> <p STYLE="color: #FFF">My Field</p>
+        </div>
+        
+        <div class="mdl-cell mdl-cell--3-col bm-toolbar">
+            <a href="#p2" onclick="planet.App.prototype.getWetter()">
+            <button class="mdl-button mdl-js-button mdl-button--icon" id="past-button">
+                <i class="material-icons">wb_sunny</i>
+            </button><br/> <p STYLE="color: #FFF">Weather</p></a>
+        </div>
+        <div class="mdl-cell mdl-cell--3-col bm-toolbar">
+            <button class="mdl-button mdl-js-button mdl-button--icon" id="clean-button">
+                <i class="material-icons">delete_forever</i>
+            </button><br/><p STYLE="color: #FFF">Clear</p>
+        </div>
+        <div class="mdl-cell mdl-cell--3-col bm-toolbar">
+            
+      <a href="#p1">
+            <button class="mdl-button mdl-js-button mdl-button--icon" id="visibility-button">
+                <i class="material-icons">live_help</i>
+            </button><br/><p STYLE="color: #FFF">Help</p></a>
+ 
+        </div>      
+        <div class="weatherpage" id="p2-page">
+            <div id="weathershell" >
+                    <iframe id ="test" src="" frameBorder='0' style='height: 95vh' scrolling="yes" frameborder="no" width="100%" height="600px"></iframe>      
+            </div>
+        </div>
+        <div class="page" id="p1-page">
+            <div id="shell">
+                <p></p>
+                <strong STYLE="color: #000000; font-family: Apple Symbols;font-size: 2vw; ">Contact:</strong>
+                <p STYLE="color: #000000">Contact us by email and get help with your questions: "support@orbitalviews.eu"<br>
+                We provide important insights through satellite and weather data. Let's discuss about potential use cases, improvements
+                or just say hello. </p>
+                <p></p>
+                <br><br/>
+                <strong STYLE="color: #000000; font-family: Apple Symbols;font-size: 2vw; ">Documentation:</strong>
+                <p></p>
+                <div style="float: right; margin: 10px 10px 10px 10px;" class="image">
+                	<img src="static/images/Suomi.jpg" WIDTH=250 HEIGHT=250> 
+				    <center><span STYLE=" color: grey; font-style: italic; font-size: 0.8vw"; class="caption"><p>Blue Marble 2012,</br> created from Suomi imagery</p></span></center>
+				</div>
+				
+                <strong STYLE="color: #000000; font-family: Apple Symbols;font-size: 1.5vw; ">1. HowTo:</strong>
+                <p STYLE="color: #000000">Search a location of interest and mark your field with "MyField". The processing 
+                of your data only takes some seconds depending on your internet connection speed. The buttons activate a 
+                corresponding map view. <br> Note: This is a Desktop WebApp which was not optimized for smartphones.</p>
+                <p></p>
+                <br><br/>
+                <strong STYLE="color: #000000; font-family: Apple Symbols;font-size: 1.5vw; ">2. Live&Night Modus:</strong>
+
+                <p STYLE="color: #000000">Live modus visualizes daily satellite pictures provided by Suomi NPP with a resolution of 250 meter. 
+				    Therefore, the live view disappears if you zoom in to a higher level.  
+				    Suomi NPP orbits the Earth about 14 times each day and was 
+				    placed in a sun-synchronous orbit. He is equipped with various instruments for earth observation, e.g. 
+				    radiometer or sounder. OrbitalViews visualizes its corrected reflectance (True Color) images from the 
+				    last day. The night button shows the earth by night. This map has been released by NASA in 2012 and is also 
+				    based on the Suomi NPP imagery. The Earth image on the right shows a blue marble as example.
+				    (https://en.wikipedia.org/wiki/Suomi_NPP)   </p>
+                <p></p>
+                <br><br/>
+                <strong STYLE="color: #000000; font-family: Apple Symbols;font-size: 1.5vw; ">3. Satellite Monitoring:</strong>
+                
+                <p STYLE="color: #000000"> Satellite monitoring over vegetation helps farmers to improve their daily work and 
+                decreases costs and losses. The impact of environmental stress on the physiological processes of a plant defines a crop’s overall productivity. 
+                Unfavorable weather conditions can reduce yields by more than 70%. Drought stress during flowering can cause a delay 
+                in silking, disrupting anthesis. Drought stress in the two weeks following silking can reduce the crop growth rate 
+                by 20%. The current demand of fresh water for the private sector, industry and agriculture is unsustainable and globally increasing. 
+                The development of new and innovative irrigation solutions is required in order to support the increased demand.
+             	
+                Satellite monitoring provides multispectral information which can be transformed into helpful information 
+                in order to prevent crop stress or yield reductions. The following sections introduce some applications of
+                satellite and weather data for drought, irrigation or biomass monitoring.</p>  
+                <div STYLE="float: right; margin: 10px 10px 10px 10px; " class="image">
+                	<img src="static/images/venice.jpg" WIDTH=250 HEIGHT=250> 
+				    <center><span STYLE=" color: grey; font-style: italic; font-size: 0.8vw"; class="caption"><p>Venice July 2017 - Sentinel</p></span></center>
+				</div>
+                <p></p>
+                <br><br/>
+                <strong STYLE=" color: #000000;font-family:  Apple Symbols; font-size: 1.2vw">a) RGB:</strong><p></p>
+					
+                <p STYLE="color: #000000"> RGB is a true color image and shows the most up to date picture of a location or field.
+                The picture date and time is shown on the left side in the toolbar.
+                Landsat 8/7 and Sentnel-2 are our data sources which provide continuous beautiful images of any location on Earth
+                with a resolution of up to 10 meter per pixel. The illustrated RGB image shows Venice in Italy. </p>          
+                <p></p>
+                <br><br/>
+                <strong STYLE=" color: #000000;font-family: Apple Symbols; font-size: 1.2vw">b) Biomass:</strong>
+                <p STYLE="color: #000000">Biomass is calculated from a comparison of visible and near-infrared light which is reflected from 
+                vegetation. Healthy vegetation absorbs a major part of visible light while it also reflects a larger part of 
+                near-infrared light. Unhealthy or scarce vegetation reflects visible light mostly. Green pigments in leaves that is 
+				chlorophyll greatly absorb visible light for photosynthesis.
+                Low values correspond to vegetation free regions e.g. and sand, buildings or snow are visualized in 
+                brown shades. High index values (0.6-0.8) denote high biomass. The color bar shows these 
+                shades from dark green to light green.	
+			   	</p>
+				<br><br/>
+                <center><div class="image">
+                	<IMG SRC="static/images/legend_ndvi.png" ALT="some text" WIDTH=400 HEIGHT=69>
+				    <center><span STYLE=" color: grey; font-style: italic; font-size: 0.8vw"; class="caption"><p>Biomass colorbar</p></span></center>
+				</div></center>
+				
+                <p></p>
+                <strong STYLE="color: #000000;font-family: Apple Symbols; font-size: 1.2vw">c) Plant Moisture</strong>
+                <p></p>
+                <p STYLE="color: #000000"> Moisture stands for moisture content in the leafs and is based on the NDWI index.
+                NDWI is a good indicator of plant humidity and strongly related to plant  water content. During droughts 
+                vegetation conditions can  be  affected  by  water  stress which causes crop failure or lower crop production 
+                in areas without irrigation. An early recognition of such conditions can be advantageous for irrigation management 
+                in order to prevent yield reductions.    
+               	The NDWI/Moisture  product is  dimensionless  and varies  between -1  to  +1, depending  on   plant humidity
+                but  also  on  the  vegetation  type  and  cover.
+				High  values (blue shades) correspond  to  high  vegetation  water  content  and  to  high  vegetation  
+				fraction  cover.  Low values show low  vegetation  water  content  and  low  vegetation  fraction  cover.
+				Drought  and  water  stress  are  not  the  only  factors  that  can  cause  a  decrease  of NDWI values. 
+				Change  in  land  covers  or  pests  and  diseases  can  also  be  responsible  for  such variation  of  the  signal.  
+				Therefore  this  indicator  must  be  used  jointly  with  other  indicators  giving information  on  the  deficit 
+				of  rainfall  /soil  moisture  in  order  to  determine  if  the  variation  in  the vegetation response (signal) is 
+				linked with a drought event or not.
+				</p>
+                <p></p>
+                <center><div class="image">
+                	<IMG SRC="static/images/legend_ndwi.png" ALT="some text" WIDTH=400 HEIGHT=69>
+				    <center><span STYLE=" color: grey; font-style: italic; font-size: 0.8vw"; class="caption"><p>Moisture colorbar</p></span></center>
+				</div></center>
+				<br><br/>
+                <strong STYLE="color: #000000;font-family: Apple Symbols; font-size: 1.2vw">d) Variance</strong>
+                <p></p>
+                <p STYLE="color: #000000"> Biomass variance visualizes the spatial disparity which is based on biomass differences. 
+                Mark the field correctly without any streets or buildings in order to get a very good result. The images below
+                show a variance map of a center-pivot irrigation area where crops are watered with sprinklers in comparison to a 
+                daily water need map.  The mean biomass value is shown in white. Negative deviations from the mean are visualized 
+                in blue shades and positive in red shades.
+                </p>
+                <p></p>
+                <br><br/>
+                <strong STYLE="color: #000000;font-family: Apple Symbols; font-size: 1.2vw">e) Water Need</strong>
+                <p></p>
+                <center><div class="image">
+				   <IMG SRC="static/images/pivot.png" ALT="some text" WIDTH=700 HEIGHT=300 margin: 10px 10px 10px 10px; border:1px solid #000000;>
+				    <center><span STYLE=" color: grey; font-style: italic; font-size: 0.8vw"; class="caption"><p>Visualization of an irrigated field with water needs and variance</p></span></center>
+				</div></center>
+                <p STYLE="color: #000000"> By providing near-real time information about moisture, water consumption 
+                or evapotranspiration, water and agricultural management can  be  improved. An improvement of irrigation efficiency 
+                saves energy costs and water consumption. <br>
+                Evapotranspiration (ET) is an important part of our calculation and describes the sum of evaporation and plant transpiration. 
+                It accounts for the movement of water to the air in form of water vapour. Transpiration refers to the movement of water within a 
+                plant and the subsequent loss of water as vapor through stomata in its leaves. Evapotranspiration is an important 
+                part of the water cycle and an integral part of the water need map. The water need map takes weather data like daily rain amount,
+                temperature or wind speed and multispectral satellite data as input in order to compute the crop-specific water amount
+                which needs to be applied. The toolbar shows the average elevation and ET0 over grass for the marked region or field. </p>
+                <p></p>
+                
+                <br><br/>
+                <br><br/>
+
+				<center>
+                	<IMG SRC="static/images/sources.png" ALT="some text" WIDTH=350 HEIGHT=60>
+				</center>
+				
+                <button class="mdl-button mdl-js-button mdl-button--icon" ><i class="material-icons">label_outline</i></button><br/>Close
+            </div>
+        </div>
+        <script>
+        $(function() {
+            var nav = $('a');
+            nav.click(function() {
+                var target = $($(this).attr('href') + '-page');
+                target.addClass('active').toggle(500);
+                $('.page:visible').not(target).removeClass('active').toggle(500);
+                return false;
+            });
+
+            $(".page button").click(function() {
+                $(".page").hide(1000);
+            });
+        });
+        </script>    
+        <hr width="100%">
+        <p class="footer" >&copy; 2017 - 2018 Made in Munich</p>
+	</div>
+</div>
+<script>
+    planet.boot(
+        '',
+        '',
+        initPage
+    );
+</script>
+</body>
+</html>
