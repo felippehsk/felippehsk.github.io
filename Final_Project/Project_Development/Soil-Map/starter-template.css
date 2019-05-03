@@ -1,5 +1,8 @@
-#map1, #map2 {
-  height: 400px;
+html, body, #map {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 body {
   padding-top: 3.5rem;
@@ -7,7 +10,4 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-}
-h3 {
-  font-size: 1.25rem;
 }

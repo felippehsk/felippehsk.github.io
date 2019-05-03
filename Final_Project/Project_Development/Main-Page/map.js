@@ -1,53 +1,32 @@
 function init () {
-  let myMap = L.map('map').setView([30.3645, -91.1722], 14)
-  let Esri_WorldImagery = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
-  let esriBasemap = L.tileLayer(Esri_WorldImagery, {
-    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-  }).addTo(myMap)
-
-  let basemaps = {
-    'Basemap': esriBasemap }
-
-  let soilLayer = L.layerGroup().addTo(myMap)
-  let ssurgo = 'https://felippehsk.github.io/Final_Project/Project_Development/data/SSURGO_Farm.geojson'
-  jQuery.getJSON (ssurgo, function(data){
-    // Will apply a diferent style for each feature - polygon
-    	let soilTypeStyle = function (feature) {
-    	  let sClass = feature.properties.MUSYM
-    	  let soilColor = '#663300' // let the initial color be a darker green
-    	  if ( sClass == "SeA" ) { soilColor = '#be8a60' }
-        if ( sClass == "W" ) { soilColor = '	#008B8B' }
-        if ( sClass == "ShB" ) { soilColor = '#ccbea0' }
-        if ( sClass == "ThA" ) { soilColor = '#e5d08d' }
-        if ( sClass == "CmA" ) { soilColor = '#8e805b' }
-        if ( sClass == "SiB" ) { soilColor = '#d0953c' }
-    	  return {
-    	    color: soilColor, //use the color variable above for the value
-    	    weight: 1,
-    	    fillOpacity: 0.8
-    	  }
-    	}
-      let onEachFeature = function (feature, layer) {
-        soilLayer.addLayer(layer)
-    		let sSymbol = feature.properties.MUSYM
-        let sType = feature.properties.Soil_Type
-    		let sDrainage = feature.properties.Drainage
-        let sArea = feature.properties.Area
-    		layer.bindPopup('<b>Soil Type:</b> ' + sType +
-                        '<br><b>Map Unit Symbol (MUSYM):</b> ' + sSymbol+
-                        '<br><b>Soil Drainage:</b> ' + sDrainage+
-                        '<br><b>Soil Area (ac):</b> ' + sArea)
-    	}
-    	let geojsonOptions = {
-    		style: soilTypeStyle,
-    		onEachFeature: onEachFeature
-    	}
-  	L.geoJSON (data, geojsonOptions ).addTo(myMap)
-    let layers = {
-    'Fam Soil Types': soilLayer
-    }
-    L.control.layers(basemaps, layers).addTo(myMap)
-
-  })
+  // Begin map 1
+  let map1 = L.map('map1').setView([32.18, -99.14], 4)
+  L.tileLayer('https://tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey=9e58ec91b076457dbf9835a1932e032c', {
+    attribution: 'Thunderforest'
+  }).addTo(map1)
+  let city = L.marker([30, -90]).addTo(map1)
+  let area = L.polygon([
+    [31, -88],
+    [35, -88],
+    [32, -82]
+  ]).addTo(map1)
+  area.bindPopup('A polygon')
+  city.bindPopup('A marker')
+  
+  // Begin map 2
+  let map2 = L.map('map2').setView([37, -95], 4)
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map2)
+  L.tileLayer.wms('http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi', {
+    layers: 'nexrad-n0r-900913',
+    format: 'image/png',
+    transparent: true,
+    attribution: 'NOAA, Iowa State University'
+  }).addTo(map2)
+  L.tileLayer.wms('https://mesonet.agron.iastate.edu/cgi-bin/wms/us/wwa.cgi', {
+    layers: 'warnings_c',
+    format: 'image/png',
+    transparent: true,
+    attribution: 'NOAA, Iowa State University'
+  }).addTo(map2)
 }
 window.addEventListener('load', init)
